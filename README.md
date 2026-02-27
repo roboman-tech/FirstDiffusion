@@ -1,4 +1,4 @@
-# First Diffusion
+# minDiffusion
 
 <!-- #region -->
 <p align="center">
