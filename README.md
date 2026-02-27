@@ -49,7 +49,4 @@ TODOS
 - [ ] Classifier Guidance
 - [ ] Multimodality
 
-# Updates!
 
-- Using more parameter yields better result for MNIST.
-- More comments in superminddpm.py
